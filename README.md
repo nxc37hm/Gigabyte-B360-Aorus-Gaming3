@@ -1,6 +1,6 @@
 # B360-Aorus-Gaming3
 ### Features
-- OpenCore 0.6.8 
+- OpenCore & Clover
 - Full-featured: Sleep/Wake, Audio, USB 3.0/2.0, Webcam (External), ...;
 - Compatible with all macOS version (From Mojave to latest version)
 
