@@ -1,8 +1,10 @@
 # B360-Aorus-Gaming3
 ### Features
 - OpenCore & Clover
-- Full-featured: Sleep/Wake, Audio, USB 3.0/2.0, Webcam (External), ...;
-- Compatible with all macOS version (From Mojave to latest version)
+- Full-featured: Sleep/Wake, Airdrop, Hand off, Audio, USB 3.0/2.0, Webcam (External), ...
+- Enabled TRIM for SSD.
+- patched for wake by power button.
+- Compatible with all macOS version (From High Serria to lastest macOS, including macOS Monterey Beta)
 
 Specs
 - CPU: Intel 9400F
