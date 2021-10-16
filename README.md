@@ -1,4 +1,4 @@
-# B360-Aorus-Gaming3
+# Gigabyte B360-Aorus-Gaming 3
 ### Features
 - OpenCore & Clover
 - Full-featured: Sleep/Wake, Airdrop, Hand off, Audio, USB 3.0/2.0, Webcam (External), ...
