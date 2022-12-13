@@ -9,7 +9,7 @@
 Specs
 - CPU: Intel 9400F
 - Main : B360 Aorus Gaming3
-- Vga: Rx 560 4GB
+- Vga: Rx 6600 8GB
 - Ram 16GB DDR4-2666
 - SSD NVMe Sam Sung SM961 256GB
 - Wifi: BCM943602CS (native)
