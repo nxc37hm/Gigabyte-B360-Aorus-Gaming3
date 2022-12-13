@@ -6,7 +6,7 @@
 - patched for wake by power button.
 - Compatible with all macOS version (From High Serria to Ventura)
 
-Specs
+###Specs
 - CPU: Intel 9400F
 - Main : B360 Aorus Gaming3
 - Vga: Rx 6600 8GB
@@ -14,7 +14,7 @@ Specs
 - SSD NVMe Sam Sung SM961 256GB
 - Wifi: BCM943602CS (native)
 
-Picture
+###Picture
 
 ![background](https://user-images.githubusercontent.com/72862070/207305817-f5f5cddf-3457-4ec2-847f-2c4907d4483d.png)
 ![Screen Shot 2020-08-24 at 22 55 38](https://user-images.githubusercontent.com/72862070/123786700-30fe4980-d904-11eb-92fb-0e7d8296f6db.png)
@@ -23,4 +23,4 @@ Picture
 ![Screen Shot 2021-06-11 at 10 10 46](https://user-images.githubusercontent.com/72862070/123786955-7de22000-d904-11eb-8e08-34a6e278db9e.png)
 
 
-More information and support at https://www.facebook.com/groups/hackintoshsvn
+###More information and support at https://www.facebook.com/groups/hackintoshsvn
