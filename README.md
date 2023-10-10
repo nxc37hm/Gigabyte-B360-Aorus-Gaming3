@@ -4,7 +4,7 @@
 - Full-featured: Sleep/Wake, Airdrop, Hand off, Audio, USB 3.0/2.0, Webcam (External), ...
 - Enabled TRIM for SSD.
 - patched for wake by power button.
-- Compatible with all macOS version (From High Serria to Ventura)
+- Compatible with all macOS version (From High Serria to Sonoma)
 
 Specs
 - CPU: Intel 9400F
