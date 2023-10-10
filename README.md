@@ -12,7 +12,7 @@ Specs
 - Vga: Rx 6600 8GB
 - Ram 16GB DDR4-2666
 - SSD NVMe Sam Sung SM961 256GB
-- Wifi: BCM943602CS (native)
+- Wifi: BCM943602CS (native). Fix wifi for Sonoma: https://hsvn.gitbook.io/guides/fix-wifi-for-macos-sonoma
 
 Picture
 
